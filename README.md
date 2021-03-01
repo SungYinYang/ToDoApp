@@ -4,3 +4,9 @@
 
 
 https://youtu.be/ALiiBkmuuPc
+
+# Tech Stack
+
+- Django
+- PostregressSQL
+- HTML/CSS/Boostrap
