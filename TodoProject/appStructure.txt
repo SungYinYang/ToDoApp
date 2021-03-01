@@ -1,0 +1,3 @@
+TodoProject
+-- setting.py (project config.file)
+-- urls.py (url mapping for the project))
